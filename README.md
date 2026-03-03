@@ -13,3 +13,7 @@ Data source: https://jsonplaceholder.typicode.com/posts
 ```bash
 npm install
 npm run dev
+```
+
+## Demo
+Link: https://react-9hw.netlify.app/
